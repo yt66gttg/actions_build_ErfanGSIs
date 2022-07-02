@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://download.meizu.com/Firmware/Flyme/16s/9.21.11.18/cn_beta/20211117221328/735aefce/update.zip
-  ROM_NAME: Generic
+  ROM_NAME: Flyme
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
